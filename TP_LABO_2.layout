@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="subMenuConfiguracion.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1069" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="subMenuDeportes.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1490" topLine="111" />
+		</Cursor>
+	</File>
+	<File name="fecha.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2028" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="reportes.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="clsDeportes.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="962" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoJugador.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="885" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoDeportes.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2356" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="subMenuJugadores.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1306" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="clsJugador.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4572" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1121" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="funcionesGlobales.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="376" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="20" />
+			<Collapse line="38" />
+			<Collapse line="47" />
+			<Collapse line="58" />
+			<Collapse line="72" />
+			<Collapse line="83" />
+			<Collapse line="92" />
+			<Collapse line="100" />
+			<Collapse line="109" />
+			<Collapse line="117" />
+			<Collapse line="126" />
+			<Collapse line="134" />
+			<Collapse line="143" />
+			<Collapse line="152" />
+		</Folding>
+	</File>
+	<Target name="Debug" top="ArchivoDeportes.h">
+		<File name="fecha.h" />
+		<File name="main.cpp" />
+	</Target>
+</CodeBlocks_layout_file>

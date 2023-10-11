@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1696299656 source:c:\users\david\desktop\asd\tp_labo_2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"subMenuJugadores.h"
+	"subMenuDeportes.h"
+	"clsJugador.h"
+	"clsDeportes.h"
+	"ArchivoJugador.h"
+	"ArchivoDeportes.h"
+	"subMenuConfiguracion.h"
+	"reportes.h"
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\fecha.h
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\submenujugadores.h
+	"clsJugador.h"
+	"ArchivoJugador.h"
+	"subMenuJugadores.h"
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\clsjugador.h
+	"fecha.h"
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\archivojugador.h
+	"clsJugador.h"
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\submenudeportes.h
+	"clsJugador.h"
+	"ArchivoJugador.h"
+	"subMenuJugadores.h"
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\clsdeportes.h
+
+1696299681 c:\users\david\desktop\asd\tp_labo_2\archivodeportes.h
+	"clsDeportes.h"
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\submenuconfiguracion.h
+
+1696299596 c:\users\david\desktop\asd\tp_labo_2\reportes.h
+
+1697031061 source:c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"ArchivoDeportes.h"
+	"ArchivoJugador.h"
+	"clsDeportes.h"
+	"clsJugador.h"
+	"fecha.h"
+	"funcionesGlobales.h"
+	"reportes.h"
+	"subMenuConfiguracion.h"
+	"subMenuDeportes.h"
+	"subMenuJugadores.h"
+
+1696472417 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\fecha.h
+
+1696340300 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\submenujugadores.h
+	"clsJugador.h"
+	"ArchivoJugador.h"
+	"subMenuJugadores.h"
+
+1696472627 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\clsjugador.h
+	"fecha.h"
+
+1696472417 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\archivojugador.h
+	"clsJugador.h"
+
+1696472417 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\submenudeportes.h
+	"clsDeportes.h"
+	"ArchivoDeportes.h"
+	"subMenuDeportes.h"
+
+1696472417 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\clsdeportes.h
+
+1696471373 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\archivodeportes.h
+	"clsDeportes.h"
+
+1696988909 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\submenuconfiguracion.h
+
+1697031055 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\reportes.h
+
+1696988871 c:\users\altge\onedrive\escritorio\tplabo2\tp_labo_2\funcionesglobales.h
+
