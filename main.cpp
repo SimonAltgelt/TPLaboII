@@ -17,13 +17,6 @@ using namespace std;
 #include "subMenuDeportes.h"
 #include "subMenuJugadores.h"
 
-/*
-  LOS INTEGRANTES DEL GRUPO SON:
-ALTGELT, SIMÓN (YO).
-AGUADO, FRANCO.
-YSAGUIRRE, DAVID.
-*/
-
 int main(){
     int opc;
     while(true){
